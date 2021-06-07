@@ -5,6 +5,22 @@ https://www.techiediaries.com/jekyll-hugo-hexo/
 [^_^]:
 Author: Techiediaries Team, 10 Feb 2018
 
+* [GitHub页面: 搭建科研人员个人网站](https://zhuanlan.zhihu.com/p/370549865)
+* [我去！GitHub 个人页还能这么玩？](https://www.toutiao.com/a6851016621843350024/)
+* [开源静态博客生成器——jekyll、hexo、hugo怎么选？](https://www.simongong.net/xuan-ze-kun-nan-zheng/)
+* [Hexo 和Next主题升级](https://zhuanlan.zhihu.com/p/163830894)
+* [hexo+next教程](https://www.jianshu.com/p/e0fbc9eed3b2)
+* [写作](https://hexo.io/zh-cn/docs/writing.html)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
 *****************
 
 ## 1 What's Static Website Generation?

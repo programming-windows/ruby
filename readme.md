@@ -2,6 +2,9 @@
 
 For Chinese version please go to [切换到中文版](readme_cn.md)
 
+**[Refs]:**
+* [Microsoft Azure Ruby Developer Center](https://azure.microsoft.com/en-us/develop/ruby/)
+
 [^_^]:
 https://github.com/programmingWindows/ruby
 
@@ -17,10 +20,10 @@ This is a repository of learning ruby language
 
 Ruby is the support language for static web generator jekyll.
 Since there are several popular static site generators, 
-[this article](static_website_generator.md#jekyll-vs-hugo-vs-hexo) 
+[this article](website/static_website_generator.md#jekyll-vs-hugo-vs-hexo) 
 gives a detailed comparison among all popular ones.
 
-Click here to see details：[Jekyll vs Hugo vs Hexo](static_website_generator.md#jekyll-vs-hugo-vs-hexo)
+Click here to see details：[Jekyll vs Hugo vs Hexo](website/static_website_generator.md#jekyll-vs-hugo-vs-hexo)
 
 To install Hexo please go to 
 ["Employ HexO to Generate Your Website"](hexo/hexo.md).
