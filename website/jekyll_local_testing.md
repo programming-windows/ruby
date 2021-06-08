@@ -4,6 +4,15 @@
 
 ****************************************
 
+You can build your GitHub Pages site locally to preview and test changes to your site.
+
+Anyone with read permissions for a repository can test a GitHub Pages site locally.
+
+## 0 TRAPs
+
+### 0.1 Change gem source
+
+在大中华，由于 rubygems.org 无法访问，你需要更换 gem source。命令如下：
 ```shell
 $ gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
 $ gem sources -l
@@ -11,9 +20,10 @@ https://gems.ruby-china.com
 # 确保只有 gems.ruby-china.com
 ```
 
-You can build your GitHub Pages site locally to preview and test changes to your site.
+### 0.2 Generate Gemfile
 
-Anyone with read permissions for a repository can test a GitHub Pages site locally.
+在后面运行 `bundle install` 之前，必须先生成 `Gemfile`。
+如何生成参见：[Gemfile](../ruby/gemfile.md#如何生成-Gemfile) 。
 
 ## 1 Prerequisites
 
