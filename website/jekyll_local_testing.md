@@ -25,6 +25,12 @@ https://gems.ruby-china.com
 在后面运行 `bundle install` 之前，必须先生成 `Gemfile`。
 如何生成参见：[Gemfile](../ruby/gemfile.md#如何生成-Gemfile) 。
 
+### 0.3 同步更新
+为了保证本地 PC 上的代码管理工具都能够与 `GitHub Pages` 保持同步更新，
+只需要运行代码 `bundle update github-pages` 或者 `bundle update` 即可。
+
+Please also see [3 Updating the GitHub Pages gem](#updating-the-gitHub-pages-gem)
+
 ## 1 Prerequisites
 
 Before you can use Jekyll to test a site, you must:

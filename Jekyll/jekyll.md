@@ -1,5 +1,7 @@
 # Jekyll
 
+中文官方网站 <https://www.jekyll.com.cn/>
+
 * [Github+Jekyll 搭建个人网站详细教程](https://www.jianshu.com/p/9f71e260925d)
 * [GitHub Pages + Jekyll 搭建网站、更换主题](https://www.jianshu.com/p/da1287bc7874)
 * [GithubPages+Jekyll搭建个性化主题博客](https://blog.csdn.net/sinat_34439107/article/details/78443957)

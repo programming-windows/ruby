@@ -1,5 +1,8 @@
 # Gemfile
 
+[一文搞清rake、Rakefile、gem、gemspec、bundler、bundle、Gemfile的关系](https://cloud.tencent.com/developer/article/1596045)
+
+******************************
 
 ## 如何生成 Gemfile
 

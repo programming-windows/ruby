@@ -6,7 +6,7 @@ For Chinese version please go to [切换到中文版](readme_cn.md)
 * [Microsoft Azure Ruby Developer Center](https://azure.microsoft.com/en-us/develop/ruby/)
 
 [^_^]:
-https://github.com/programmingWindows/ruby
+https://github.com/programming-windows/ruby
 
 [^_^]:
 https://gitee.com/programmingwindows/ruby

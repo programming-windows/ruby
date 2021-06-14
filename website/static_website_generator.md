@@ -31,7 +31,7 @@ upload the website files to a server that serves them to users when they are
 requested. The server doesn't do any server side processing or database 
 communication it only sends the plain HTML files once they are requested.
 
-![static page](pix/1015px-Scheme_static_page_en.svg.png)
+![static page](../pix/1015px-Scheme_static_page_en.svg.png)
 
 Wikipedia: A static web page is delivered to the user exactly as stored.
 
